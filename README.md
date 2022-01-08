@@ -18,7 +18,7 @@
 
 <br> 
 
-<a href="https://play-lh.googleusercontent.com/0oO5sAneb9lJP6l8c6DH4aj6f85qNpplQVHmPmbbBxAukDnlO7DarDW0b-kEIHa8SQ" alt="" width="40" height="40"/> </a>
+<a href="[url=https://www.hizliresim.com/d48n7mk][img]https://i.hizliresim.com/d48n7mk.[/img][/url]" alt="" width="40" height="40"/> </a>
 
 
 
