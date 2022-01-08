@@ -18,7 +18,7 @@
 
 <br> 
 
-![alt text](https://i.hizliresim.com/d48n7mk.)
+<a href="https://discord.gg/r3kAGxK7FV" target="_blank"> <img src="https://i.hizliresim.com/d48n7mk." alt="discord" width="40" height="40"/> </a>
 
 
 
