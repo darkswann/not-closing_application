@@ -18,7 +18,7 @@
 
 <br> 
 
-<a href="https://www.hizliresim.com/d48n7mkhttps://i.hizliresim.com/d48n7mk." alt="agwgwa" width="40" height="40"/>agaw </a>
+![alt text](https://i.hizliresim.com/d48n7mk.)
 
 
 
