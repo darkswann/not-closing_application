@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\bin\Debug\netcoreapp3.1\not_closing_application.exe
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\bin\Debug\netcoreapp3.1\not_closing_application.deps.json
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\bin\Debug\netcoreapp3.1\not_closing_application.runtimeconfig.json
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\bin\Debug\netcoreapp3.1\not_closing_application.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\bin\Debug\netcoreapp3.1\not_closing_application.dll
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\bin\Debug\netcoreapp3.1\not_closing_application.pdb
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\obj\Debug\netcoreapp3.1\not_closing_application.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\obj\Debug\netcoreapp3.1\not_closing_application.Form1.resources
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\obj\Debug\netcoreapp3.1\not_closing_application.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\obj\Debug\netcoreapp3.1\not_closing_application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\obj\Debug\netcoreapp3.1\not_closing_application.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\obj\Debug\netcoreapp3.1\not_closing_application.AssemblyInfo.cs
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\obj\Debug\netcoreapp3.1\not_closing_application.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\obj\Debug\netcoreapp3.1\not_closing_application.dll
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\obj\Debug\netcoreapp3.1\not_closing_application.pdb
+C:\Users\admin\Desktop\Visual Studio Programları\not_closing_application\not_closing_application\obj\Debug\netcoreapp3.1\not_closing_application.genruntimeconfig.cache
