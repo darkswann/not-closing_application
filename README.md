@@ -21,7 +21,7 @@
 <br>
 
 <h3> İletişim İçin </h3>
-<a href="https://discord.gg/r3kAGxK7FV" target="_blank"> <img src="https://i.hizliresim.com/d48n7mk." alt="discord" width="30" height="30"/> </a>
+<a href="https://discord.gg/r3kAGxK7FV" target="_blank"> <img src="https://i.hizliresim.com/d48n7mk." alt="discord" width="35" height="35"/> </a>
 
 
 
